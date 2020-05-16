@@ -27,7 +27,8 @@
     "siteFonts": [],
     "imageResize": true,
     "uniqCompNum": 14,
-    "versionPublish": "4.12.3"
+    "versionPublish": "4.12.3",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -49,17 +50,20 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dfkjfbr.gif",
+            "bgImage": "@PROJECT_PATH@/assets/images/5e7583c9cdc6be483bff1397-video-2-transcode.gif",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://uploads-ssl.webflow.com/5e75503be6465957e6ed281e/5e7583c9cdc6be483bff1397_video (2)-transcode.mp4",
+              "rawUrl": "https://uploads-ssl.webflow.com/5e75503be6465957e6ed281e/5e7583c9cdc6be483bff1397_video (2)-transcode.mp4",
+              "width": 1280,
+              "height": 720
             },
             "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": "0.3"
+            "overlayColor": "#28324e",
+            "overlayOpacity": "0.4"
           },
           "title": "ATLANTIS",
           "text": "Flood Risk in Canada is Real.<br>",
